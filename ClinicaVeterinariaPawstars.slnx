@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinicaVeterinariaPawStars.API/ClinicaVeterinariaPawStars.API.csproj" />
+    <Project Path="src/ClinicaVeterinariaPawStars.Application/ClinicaVeterinariaPawStars.Application.csproj" />
+    <Project Path="src/ClinicaVeterinariaPawStars.Domain/ClinicaVeterinariaPawStars.Domain.csproj" />
+    <Project Path="src/ClinicaVeterinariaPawStars.Infrastructure/ClinicaVeterinariaPawStars.Infrastructure.csproj" />
+  </Folder>
+</Solution>

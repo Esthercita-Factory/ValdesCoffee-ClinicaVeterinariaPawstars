@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>ClinicaVeterinariaPawStars.API</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\ClinicaVeterinariaPawStars.Application\ClinicaVeterinariaPawStars.Application.csproj" />
+        <ProjectReference Include="..\ClinicaVeterinariaPawStars.Infrastructure\ClinicaVeterinariaPawStars.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>
